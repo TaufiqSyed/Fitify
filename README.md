@@ -2,7 +2,8 @@
 A basic UI/UX design for a concept iOS fitness game for the Murdoch Hackathon 2020.
 
 App features:
-<included in design>
+
+(included in design)
 
 -> At initial run, take weekly workout schedule
   
@@ -14,7 +15,7 @@ App features:
 
 -> Add friends 
 
-<was going to be added>
+(was going to be added)
 
 -> Exercise competitions with friends via room codes
 
